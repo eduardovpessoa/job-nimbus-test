@@ -1,0 +1,12 @@
+{
+  "name": "job-nimbus",
+  "version": "0.0.1",
+  "author": "Eduardo Viana Pessoa",
+  "homepage": "https://www.linkedin.com/in/eduardo-viana-pessoa/en",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^8.1.3"
+  }
+}
